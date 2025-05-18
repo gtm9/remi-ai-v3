@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gluestack.remi-ai-v3"
+      "package": "com.gtm94.remi-ai-v3"
     },
     "web": {
       "favicon": "./assets/favicon.png",
