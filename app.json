@@ -17,7 +17,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.gtm94.remi-ai-v3",
+      "bundleIdentifier": "com.gtm94.remiaiv3",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -27,7 +27,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.gtm94.remi-ai-v3",
+      "package": "com.gtm94.remiaiv3",
       "versionCode": 1
     },
     "web": {
