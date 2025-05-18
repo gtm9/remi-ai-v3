@@ -30,9 +30,14 @@
       "favicon": "./assets/favicon.png",
       "bundler": "metro"
     },
-    "owner": "gluestack",
+    "owner": "gtm94",
     "runtimeVersion": {
       "policy": "appVersion"
     },
+    "extra": {
+      "eas": {
+        "projectId": "da99d304-91a1-4797-bfee-43eb5ab8eea9"
+      }
+    }
   }
 }
