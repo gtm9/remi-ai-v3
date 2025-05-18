@@ -5,7 +5,10 @@
   },
   "build": {
     "development": {
-      "environment": "development"
+      "environment": "development",
+      "ios": {
+        "simulator": true
+      }
     },
     "preview2": {
       "android": {
